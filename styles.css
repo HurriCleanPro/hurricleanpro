@@ -1,0 +1,24 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #f4f8ff;
+  color: #222;
+}
+header {
+  background: #0c3c8c;
+  color: white;
+  padding: 20px;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+main {
+  margin-top: 20px;
+}
